@@ -4,7 +4,7 @@
 A simple command-line shortner that converts long URLs into short codes and store them in JSON file.
 
 # Features 
-- Shorten a long URL into short code(e.g. 'abc123'.
+- Shorten a long URL into short code(e.g. 'abc123').
 - Expand a short code bank to the original URL.
 - Can list all stored URLs and with their codes.
 - No need to install any external packages.
